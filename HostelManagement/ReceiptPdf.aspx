@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="ReceiptPdf.aspx.cs" Inherits="HostelManagement.ReceiptPdf" %>
